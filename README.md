@@ -28,6 +28,7 @@ group chat.
 ## 🔗 Useful links
 - Brand assets: https://github.com/psychedelicsinrecovery/brand-assets
 - 🧭 [How the helpdesks work](https://psychedelicsinrecovery.github.io/alex-desk-public/howto.html) · 🗺️ [Site map](https://psychedelicsinrecovery.github.io/alex-desk-public/map.html) · 🛤️ [Roadmap](https://psychedelicsinrecovery.github.io/alex-desk-public/roadmap.html) · 🌱 [Sustainability](https://psychedelicsinrecovery.github.io/alex-desk-public/sustainability.html)
+- 🛤️ This desk's [roadmap](ROADMAP.md) · 🌱 [sustainability](SUSTAINABILITY.md): what's next, and what keeps it running
 - 🎫 Other desks: [LitCom](https://psychedelicsinrecovery.github.io/litcom-desk-public/) · [TechCom](https://psychedelicsinrecovery.github.io/techcom-desk-public/) · [GitHubDesk](https://psychedelicsinrecovery.github.io/github-desk-public/) · [BoardDesk](https://github.com/psychedelicsinrecovery/board-of-directors-public#readme)
 - 🆘 In crisis? Call or text **988** (US), or see https://www.psychedelicsinrecovery.org/crisis-resources/ (the desks aren't a crisis line).
 
